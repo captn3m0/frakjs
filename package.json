@@ -1,0 +1,18 @@
+{
+  "name": "frakjs",
+  "version": "1.0.0",
+  "description": "Transform collections of strings into regular expressions.",
+  "main": "index.js",
+  "bin": {
+    "frak": "./bin/frak"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "frak",
+    "regex"
+  ],
+  "author": "",
+  "license": "EPL-1.0"
+}
